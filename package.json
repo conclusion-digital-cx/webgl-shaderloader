@@ -1,0 +1,17 @@
+{
+    "name": "webgl-shadertoy",
+    "version": "1.0.0",
+    "description": "Library and example for loading (shadertoy) shaders in to threejs  ",
+    "main": "index.js",
+    "dependencies": {
+        "three": "^0.88.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "serve && open http://localhost:5000",
+        "open": "open http://localhost:5000",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jelle",
+    "license": "ISC"
+}
